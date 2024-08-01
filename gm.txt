@@ -1,1 +1,12 @@
 Good morning to every one welcome to coding hub
+
+$ git add gm.txt
+
+$ git commit -m "day 1"
+
+
+$ git push -u origin master
+
+
+$ git add mlc.java
+
